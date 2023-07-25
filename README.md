@@ -1,2 +1,2 @@
 # JavaScript-Dictionary
-A 
+A simple dictionary was developed using dictionary API in JavaScript.
