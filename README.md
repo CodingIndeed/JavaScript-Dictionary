@@ -42,16 +42,16 @@ To run the Scientia Dictionary App locally, follow these steps:
 - On the Home page (`index.html`), enter a word in the search bar.
 - Press the "Search" button to display the word's definition, phonetics, and listen to its pronunciation.
 
-## Contact
-
-Should you have any questions or wish to connect, feel free to use the contact information provided on the Contact page. Your feedback and inquiries are always welcome!
-
-## Acknowledgements
-
-Special thanks to everyone who has supported the development of Scientia. Your encouragement has been invaluable in creating a tool that we hope will enhance the learning experience for many.
-
 ## Author
 
 - **Mathew Mathew** - A Computer Science student at the University of South Florida with a passion for programming and technology.
 
 Thank you for visiting Scientia Dictionary App. We hope you find it useful in your quest for knowledge!
+
+## Contributions
+
+Contributions to this project are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request. Your contributions can help make this project even better.
+
+## License
+
+This project is open-sourced under the MIT License. See the LICENSE file for more information.
